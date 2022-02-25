@@ -7,4 +7,4 @@ _*Homeworks:*_
 4. Classification
 5. Trees DIY
 6. BVD (Bias Variance Decomposition)
-7. GradientBoosting DIY
+7. GradientBoosting DIY (не сделано)
